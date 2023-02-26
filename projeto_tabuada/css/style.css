@@ -1,0 +1,51 @@
+#parent {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+}
+
+#input {
+    display: flex;
+    background-color:rgb(1, 155, 155);
+    padding: 10px;
+}
+
+#table_content {
+    background-color: rgb(251, 229, 202);
+    padding: 10px;
+    margin: 20px;
+    width: 200px;
+    text-align: center;
+    font-family: Verdana;
+
+   
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+    border-color: aliceblue;
+    width: 80px;
+}
+
+button {
+    margin: 5px;
+    padding: 7px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(119, 130, 140);
+    color: rgb(247, 238, 238);
+    font-family: Impact;
+    font-size: medium;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+    font-family:cursive;
+}
